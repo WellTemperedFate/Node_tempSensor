@@ -1,0 +1,25 @@
+{
+  "name": "@welltemperedfate/temp_sens_module",
+  "version": "0.0.1",
+  "description": "small module to read a temperature sensor from the serial port",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WellTemperedFate/Node_tempSensor.git"
+  },
+  "keywords": [
+    "temperature",
+    "sensor",
+    "node.js",
+    "module"
+  ],
+  "author": "Giovanni Allemeersch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WellTemperedFate/Node_tempSensor/issues"
+  },
+  "homepage": "https://github.com/WellTemperedFate/Node_tempSensor#readme"
+}
