@@ -12,7 +12,8 @@ A small testmodule, purely for educational purposes, for myself to be honest, ki
     var temperature = require('@welltemperedfate/temp_sens_module');
 
     var display = temperature();
-
+    display.OpenPort();
+    display.getTempData();
     console.log(display);
   
   
